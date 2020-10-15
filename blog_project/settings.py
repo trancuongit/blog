@@ -26,7 +26,7 @@ SECRET_KEY = 'pke!*sr+vpp06tc-(tky#bv-3rsw*#_ncy=)g91bf)$qyer-08'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
